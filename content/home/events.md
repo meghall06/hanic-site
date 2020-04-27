@@ -51,7 +51,7 @@ subtitle = ""
 +++
 
 ## HANIC 5: Advanced Hockey Analytics
-#### Saturday May 2, 2020 7pm EDT
+### Saturday May 2, 2020 7pm EDT
 
 {{% alert note %}}
 All events are free on Zoom, sign up [here](https://us02web.zoom.us/webinar/register/WN_xqi-bH96RKW8C5bkWeKICg)!
@@ -68,7 +68,7 @@ Michael Schuckers [{{< icon name="twitter" pack="fab" >}}](https://twitter.com/S
 
 Alison Lukan [{{< icon name="twitter" pack="fab">}}](https://twitter.com/AlisonL)on how to get started tracking in hockey. 
 <br>
-[{{< icon name="file-pdf" pack="fas" >}}](https://www.dropbox.com/s/n2ipceofrq5y0aj/Intro%20to%20Tracking%20Hockey.pdf?dl=0) *slides*
+[{{< icon name="file-pdf" pack="fas" >}} *slides*](https://www.dropbox.com/s/n2ipceofrq5y0aj/Intro%20to%20Tracking%20Hockey.pdf?dl=0)
 
 ###### Special Guests
 
@@ -82,12 +82,56 @@ Alison Lukan [{{< icon name="twitter" pack="fab">}}](https://twitter.com/AlisonL
 
 Meghan Hall [{{< icon name="twitter" pack="fab">}}](https://twitter.com/MeghanMHall)on moving beyond Excel to make your analysis more reproducible, efficient, and shareable. 
 <br>
-[{{< icon name="file-pdf" pack="fas" >}}](https://meghan.rbind.io/slides/hall_hanic_2020.html#1) *slides* <br>
-[{{< icon name="youtube" pack="fab" >}}](https://www.youtube.com/watch?v=-Zl_b5Emvb0&feature=youtu.be) *video*
+[{{< icon name="file-pdf" pack="fas" >}} *slides*](https://meghan.rbind.io/slides/hall_hanic_2020.html#1) <br>
+[{{< icon name="youtube" pack="fab" >}} *video*](https://www.youtube.com/watch?v=-Zl_b5Emvb0&feature=youtu.be)
 
 ###### Panel on Coaching in Analytics
 
-* Rachel Doerrie [{{< icon name="twitter" pack="fab">}}](https://twitter.com/racheldoerrie)
+* Rachel Doerrie [{{< icon name="twitter" pack="fab">}}](https://twitter.com/racheldoerrie), Director, Advanced Performance, York University
 * Wes Wolfe [{{< icon name="twitter" pack="fab">}}](https://twitter.com/weswolfe91), Assistant Coach, Erie Otters
 * Rob Schremp [{{< icon name="twitter" pack="fab">}}](https://twitter.com/RobSchremp), Co-Founder of 44 Vision Hockey
+
+<br>
+
+## HANIC 2: Web APIs
+### Saturday April 11, 2020 7pm EDT
+
+Matthew Barlowe [{{< icon name="twitter" pack="fab">}}](https://twitter.com/matthew_barlowe)on an intro to working with web APIs. 
+<br>
+[{{< icon name="file-pdf" pack="fas" >}} *slides*](https://github.com/mcbarlowe/api_talk/blob/master/HANIC%20Presentation.pdf) <br>
+[{{< icon name="youtube" pack="fab" >}}](https://www.youtube.com/watch?v=-Zl_b5Emvb0&feature=youtu.be) *video*
+
+###### Special Guests
+
+* Olympian Jayna Hefford [{{< icon name="twitter" pack="fab">}}](https://twitter.com/J16H)
+
+<br>
+
+## HANIC 1
+### Saturday March 28, 2020 7pm EDT
+
+Micah Blake McCurdy [{{< icon name="twitter" pack="fab">}}](https://twitter.com/IneffectiveMath)on a new expected goals model.
+<br>
+[{{< icon name="file-pdf" pack="fas" >}} *slides*](https://youtu.be/oUVISEJaEMM?t=1431)
+<br>
+[{{< icon name="youtube" pack="fab" >}} *video*](https://www.youtube.com/watch?v=q6JvcOSsh6U)
+
+Andrew C. Thomas [{{< icon name="twitter" pack="fab">}}](https://twitter.com/acthomasca)on how to start a stats website.
+<br>
+[{{< icon name="youtube" pack="fab" >}} *video*](https://youtu.be/q6JvcOSsh6U?t=2145)
+
+###### How to Get Into Sports Analytics
+
+* Sarah Bailey [{{< icon name="twitter" pack="fab">}}](https://twitter.com/sarahrunbailey), LA Rams Statistician
+* Harman Dayal [{{< icon name="twitter" pack="fab">}}](https://twitter.com/harmandayal2), The Athletic
+* Asmae Toumi [{{< icon name="twitter" pack="fab">}}](https://twitter.com/asmae_toumi), Hockey-Graphs EIC
+
+[{{< icon name="youtube" pack="fab" >}} *video*](https://www.youtube.com/watch?v=oUVISEJaEMM)
+
+###### Media and Analytics
+
+* Mike Johnson [{{< icon name="twitter" pack="fab">}}](https://twitter.com/mike_p_johnson), NHL Analyst
+* Alison Lukan [{{< icon name="twitter" pack="fab">}}](https://twitter.com/AlisonL), The Athletic
+
+[{{< icon name="youtube" pack="fab" >}} *video*](https://youtu.be/oUVISEJaEMM?t=1431)
 

@@ -50,6 +50,4 @@ subtitle = ""
  css_class = ""
 +++
 
-HANIC was developed by Meghan Chayka and Alison Lukan etc etc
-
-Can add whatever you want here!
+HANIC, presented by Meghan Chayka and Alison Lukan, is a weekly online conference focused on bringing together the hockey analytics community to share, grow, and discuss the sport via diverse topics and speakers. [{{< icon name="twitter" pack="fab" >}}#HANIC](https://twitter.com/hashtag/HANIC?src=hashtag_click)
