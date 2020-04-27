@@ -134,3 +134,16 @@ Andrew C. Thomas [{{< icon name="twitter" pack="fab">}}](https://twitter.com/act
 
 [{{< icon name="youtube" pack="fab" >}} *video*](https://youtu.be/oUVISEJaEMM?t=1431)
 
+###### Women's Hockey
+
+* Sarah Nurse [{{< icon name="twitter" pack="fab">}}](https://twitter.com/nursey16)
+* Natalie Spooner [{{< icon name="twitter" pack="fab">}}](https://twitter.com/natspooner5)
+* Renata Fast [{{< icon name="twitter" pack="fab">}}](https://twitter.com/RenataFast)
+
+###### Other Speakers
+
+* Jackie Redmond [{{< icon name="twitter" pack="fab">}}](https://twitter.com/Jackie_Redmond) on hockey media
+* Carly Zucker [{{< icon name="twitter" pack="fab">}}](https://twitter.com/CarlyAplin) on sports media & hockey life
+* Cat Silverman [{{< icon name="twitter" pack="fab">}}](https://twitter.com/catmsilverman) on goalie analytics
+* Alyssa Longmuir [{{< icon name="twitter" pack="fab">}}](https://twitter.com/alyssastweeting) on tracking in Australia
+* Jashvina Shaw [{{< icon name="twitter" pack="fab">}}](https://twitter.com/icehockeystick) on prospects & college hockey
