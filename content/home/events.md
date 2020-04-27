@@ -98,8 +98,7 @@ Meghan Hall [{{< icon name="twitter" pack="fab">}}](https://twitter.com/MeghanMH
 
 Matthew Barlowe [{{< icon name="twitter" pack="fab">}}](https://twitter.com/matthew_barlowe)on an intro to working with web APIs. 
 <br>
-[{{< icon name="file-pdf" pack="fas" >}} *slides*](https://github.com/mcbarlowe/api_talk/blob/master/HANIC%20Presentation.pdf) <br>
-[{{< icon name="youtube" pack="fab" >}}](https://www.youtube.com/watch?v=-Zl_b5Emvb0&feature=youtu.be) *video*
+[{{< icon name="file-pdf" pack="fas" >}} *slides*](https://github.com/mcbarlowe/api_talk/blob/master/HANIC%20Presentation.pdf)
 
 ###### Special Guests
 
@@ -112,7 +111,7 @@ Matthew Barlowe [{{< icon name="twitter" pack="fab">}}](https://twitter.com/matt
 
 Micah Blake McCurdy [{{< icon name="twitter" pack="fab">}}](https://twitter.com/IneffectiveMath)on a new expected goals model.
 <br>
-[{{< icon name="file-pdf" pack="fas" >}} *slides*](https://youtu.be/oUVISEJaEMM?t=1431)
+[{{< icon name="file-pdf" pack="fas" >}} *slides*](https://hockeyviz.com/static/pdf/hanic.pdf)
 <br>
 [{{< icon name="youtube" pack="fab" >}} *video*](https://www.youtube.com/watch?v=q6JvcOSsh6U)
 
