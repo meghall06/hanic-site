@@ -59,7 +59,13 @@ All events are free on Zoom, sign up [here](https://us02web.zoom.us/webinar/regi
 
 Michael Schuckers [{{< icon name="twitter" pack="fab" >}}](https://twitter.com/SchuckersM), Professor at St. Lawrence University, takes us through his paper ["Draft by Numbers: Using Data and Analytics to Improve National Hockey League (NHL) Player Selection."](http://www.sloansportsconference.com/wp-content/uploads/2016/02/1559-Draft-by-Numbers.pdf)
 
-{{< tweet 1254536969146773510 >}}
+###### Panelists
+
+* Rod Braceful [{{< icon name="twitter" pack="fab">}}](https://twitter.com/hot_rod1118), USA Hockey
+* Corey Krawiec, Baltimore Ravens
+* Brad Nauta [{{< icon name="twitter" pack="fab">}}](https://twitter.com/nautabynature), Stathletes
+
+{{< tweet 1255993823911645184 >}}
 
 <br>
 
