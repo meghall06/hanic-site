@@ -58,6 +58,8 @@ All events are free on Zoom, sign up [here](https://us02web.zoom.us/webinar/regi
 {{% /alert %}}
 
 Michael Schuckers [{{< icon name="twitter" pack="fab" >}}](https://twitter.com/SchuckersM), Professor at St. Lawrence University, takes us through his paper ["Draft by Numbers: Using Data and Analytics to Improve National Hockey League (NHL) Player Selection."](http://www.sloansportsconference.com/wp-content/uploads/2016/02/1559-Draft-by-Numbers.pdf)
+<br>
+[{{< icon name="file-pdf" pack="fas" >}} *slides*](http://myslu.stlawu.edu/~msch/Schuckers_HANIC2020_DbN.pdf)
 
 ###### Panelists
 
