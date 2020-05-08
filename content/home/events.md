@@ -50,12 +50,30 @@ subtitle = ""
  css_class = ""
 +++
 
-## HANIC 5: Advanced Hockey Analytics
-### Saturday May 2, 2020 7pm EDT
+## HANIC 7: HANIC X NFL
+### Thursday May 21, 2020 8pm EDT
 
 {{% alert note %}}
-All events are free on Zoom, sign up [here](https://us02web.zoom.us/webinar/register/WN_xqi-bH96RKW8C5bkWeKICg)!
+All events are free on Zoom, sign up [here](https://us02web.zoom.us/webinar/register/WN_uoRplMctSFKIaYiZ7zau7A)!
 {{% /alert %}}
+
+Featuring Michael Lopez [{{< icon name="twitter" pack="fab" >}}](https://twitter.com/StatsbyLopez), Director of Data and Analytics at the National Football League.
+
+## HANIC 6: HANIC X SOCCER
+### Saturday May 16, 2020 7pm EDT
+
+{{% alert note %}}
+All events are free on Zoom, sign up [here](https://us02web.zoom.us/webinar/register/WN_nkssh-WEQ_m3HaQLezv0bg)!
+{{% /alert %}}
+
+Featuring Devin Pleuler [{{< icon name="twitter" pack="fab" >}}](https://twitter.com/devinpleuler), Director of Analytics for Toronto FC.
+
+{{< tweet 1258542024250101761 >}}
+
+<br>
+
+## HANIC 5: Advanced Hockey Analytics
+### Saturday May 2, 2020 7pm EDT
 
 Michael Schuckers [{{< icon name="twitter" pack="fab" >}}](https://twitter.com/SchuckersM), Professor at St. Lawrence University, takes us through his paper ["Draft by Numbers: Using Data and Analytics to Improve National Hockey League (NHL) Player Selection."](http://www.sloansportsconference.com/wp-content/uploads/2016/02/1559-Draft-by-Numbers.pdf)
 <br>
@@ -66,8 +84,6 @@ Michael Schuckers [{{< icon name="twitter" pack="fab" >}}](https://twitter.com/S
 * Rod Braceful [{{< icon name="twitter" pack="fab">}}](https://twitter.com/hot_rod1118), USA Hockey
 * Corey Krawiec, Baltimore Ravens
 * Brad Nauta [{{< icon name="twitter" pack="fab">}}](https://twitter.com/nautabynature), Stathletes
-
-{{< tweet 1255993823911645184 >}}
 
 <br>
 
