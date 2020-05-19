@@ -59,6 +59,15 @@ All events are free on Zoom, sign up [here](https://us02web.zoom.us/webinar/regi
 
 Featuring Michael Lopez [{{< icon name="twitter" pack="fab" >}}](https://twitter.com/StatsbyLopez), Director of Data and Analytics at the National Football League.
 
+###### Speakers
+
+* Tom Bliss [{{< icon name="twitter" pack="fab">}}](https://twitter.com/DataWithBliss) on NFL rest and bye advantages.
+* Erin Pšajdl [{{< icon name="twitter" pack="fab">}}](https://twitter.com/erinpsajdl) on injury metrics.
+* Matt Ploenzke [{{< icon name="twitter" pack="fab">}}](https://twitter.com/MPloenzke) on [#BigDataBowl](https://twitter.com/hashtag/BigDataBowl?src=hashtag_click) findings.
+* Tom Mock [{{< icon name="twitter" pack="fab">}}](https://twitter.com/thomas_mock) on tidymodels.
+* PFF Moo [{{< icon name="twitter" pack="fab">}}](https://twitter.com/PFF_Moo) on PFF research.
+
+
 {{< tweet 1262492588394737665 >}}
 
 ## HANIC 6: HANIC X SOCCER
