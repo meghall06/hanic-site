@@ -59,16 +59,24 @@ All events are free on Zoom, sign up [here](https://us02web.zoom.us/webinar/regi
 
 Featuring Michael Lopez [{{< icon name="twitter" pack="fab" >}}](https://twitter.com/StatsbyLopez), Director of Data and Analytics at the National Football League.
 
+{{< figure library="true" src="HANIC_NFL.jpeg" title="" lightbox="true" >}}
+
 ###### Speakers
 
 * Tom Bliss [{{< icon name="twitter" pack="fab">}}](https://twitter.com/DataWithBliss) on NFL rest and bye advantages.
 * Erin Pšajdl [{{< icon name="twitter" pack="fab">}}](https://twitter.com/erinpsajdl) on injury metrics.
 * Matt Ploenzke [{{< icon name="twitter" pack="fab">}}](https://twitter.com/MPloenzke) on [#BigDataBowl](https://twitter.com/hashtag/BigDataBowl?src=hashtag_click) findings.
 * Tom Mock [{{< icon name="twitter" pack="fab">}}](https://twitter.com/thomas_mock) on tidymodels.
-* PFF Moo [{{< icon name="twitter" pack="fab">}}](https://twitter.com/PFF_Moo) on PFF research.
+
+###### Panelists: Working Within the NFL
+
+* Emily Kuehler [{{< icon name="twitter" pack="fab">}}](https://twitter.com/emilykuehler), Denver Broncos.
+* Victor Li, Jacksonville Jaguars.
+* Zach Stuart [{{< icon name="twitter" pack="fab">}}](https://twitter.com/stuntonthisdata), New York Jets.
+* Dave Giuliani, Cleveland Browns.
 
 
-{{< tweet 1262492588394737665 >}}
+{{< tweet 1262787057694511106 >}}
 
 ## HANIC 6: HANIC X SOCCER
 ### Saturday May 16, 2020 2pm EDT
