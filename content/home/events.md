@@ -59,16 +59,12 @@ All events are free on Zoom, sign up [here](https://us02web.zoom.us/webinar/regi
 
 Featuring Michael Lopez [{{< icon name="twitter" pack="fab" >}}](https://twitter.com/StatsbyLopez), Director of Data and Analytics at the National Football League.
 
+{{< tweet 1262492588394737665 >}}
+
 ## HANIC 6: HANIC X SOCCER
 ### Saturday May 16, 2020 2pm EDT
 
-{{% alert note %}}
-All events are free on Zoom, sign up [here](https://us02web.zoom.us/webinar/register/WN_nkssh-WEQ_m3HaQLezv0bg)! Note the updated time!
-{{% /alert %}}
-
 Featuring Devin Pleuler [{{< icon name="twitter" pack="fab" >}}](https://twitter.com/devinpleuler), Director of Analytics for Toronto FC and Ravi Ramineni [{{< icon name="twitter" pack="fab" >}}](https://twitter.com/analyseFooty), Director of Analytics for Seattle Sounders FC.
-
-{{< tweet 1260359296182861830 >}}
 
 <br>
 
