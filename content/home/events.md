@@ -71,7 +71,7 @@ Featuring Michael Lopez [{{< icon name="twitter" pack="fab" >}}](https://twitter
 ###### Panelists: Working Within the NFL
 
 * Emily Kuehler [{{< icon name="twitter" pack="fab">}}](https://twitter.com/emilykuehler), Denver Broncos.
-* Victor Li, Jacksonville Jaguars.
+* Victor Li [{{< icon name="twitter" pack="fab">}}](https://twitter.com/vcli_), Jacksonville Jaguars.
 * Zach Stuart [{{< icon name="twitter" pack="fab">}}](https://twitter.com/stuntonthisdata), New York Jets.
 * Dave Giuliani, Cleveland Browns.
 
