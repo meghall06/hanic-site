@@ -53,3 +53,5 @@ subtitle = ""
 <br>
 
 Sportsnet: **[Meghan Chayka reconnecting hockey’s analytics community amid pandemic](https://www.sportsnet.ca/hockey/nhl/meghan-chayka-reconnecting-hockeys-analytics-community-amid-pandemic/)**
+
+Sportsnet: **[31 Thoughts](https://www.sportsnet.ca/hockey/nhl/31-thoughts-whats-holding-nhl-playoffs-proposal/)**

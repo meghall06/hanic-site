@@ -50,12 +50,19 @@ subtitle = ""
  css_class = ""
 +++
 
-## HANIC 7: HANIC X NFL
-### Thursday May 21, 2020 8pm EDT
+## HANIC 8: HANIC X NBA
+### Saturday June 6, 2020 7pm EDT
 
 {{% alert note %}}
-All events are free on Zoom, sign up [here](https://us02web.zoom.us/webinar/register/WN_uoRplMctSFKIaYiZ7zau7A)!
+All events are free on Zoom, registration link coming soon!
 {{% /alert %}}
+
+Featuring Seth Partnow [{{< icon name="twitter" pack="fab" >}}](https://twitter.com/SethPartnow), NBA Analyst at The Athletic and previous Director of Basketball Research for the Milwaukee Bucks.
+
+<br>
+
+## HANIC 7: HANIC X NFL
+### Thursday May 21, 2020 8pm EDT
 
 Featuring Michael Lopez [{{< icon name="twitter" pack="fab" >}}](https://twitter.com/StatsbyLopez), Director of Data and Analytics at the National Football League.
 
@@ -66,7 +73,7 @@ Featuring Michael Lopez [{{< icon name="twitter" pack="fab" >}}](https://twitter
 * Tom Bliss [{{< icon name="twitter" pack="fab">}}](https://twitter.com/DataWithBliss) on NFL rest and bye advantages.
 * Erin Pšajdl [{{< icon name="twitter" pack="fab">}}](https://twitter.com/erinpsajdl) on injury metrics.
 * Matt Ploenzke [{{< icon name="twitter" pack="fab">}}](https://twitter.com/MPloenzke) on [#BigDataBowl](https://twitter.com/hashtag/BigDataBowl?src=hashtag_click) findings.
-* Tom Mock [{{< icon name="twitter" pack="fab">}}](https://twitter.com/thomas_mock) on tidymodels.
+* Tom Mock [{{< icon name="twitter" pack="fab">}}](https://twitter.com/thomas_mock) on tidymodels. **[Slides available here!](https://jthomasmock.github.io/nfl_hanic/#1)**
 
 ###### Panelists: Working Within the NFL
 
