@@ -54,10 +54,12 @@ subtitle = ""
 ### Saturday June 6, 2020 7pm EDT
 
 {{% alert note %}}
-All events are free on Zoom, registration link coming soon!
+All events are free on Zoom, [sign up here](https://us02web.zoom.us/webinar/register/WN_bMlfdqN6TPOKTS2MSlE9Kg)!
 {{% /alert %}}
 
 Featuring Seth Partnow [{{< icon name="twitter" pack="fab" >}}](https://twitter.com/SethPartnow), NBA Analyst at The Athletic and previous Director of Basketball Research for the Milwaukee Bucks.
+
+{{< tweet 1264268900147003395 >}}
 
 <br>
 
@@ -82,8 +84,7 @@ Featuring Michael Lopez [{{< icon name="twitter" pack="fab" >}}](https://twitter
 * Zach Stuart [{{< icon name="twitter" pack="fab">}}](https://twitter.com/stuntonthisdata), New York Jets.
 * Dave Giuliani, Cleveland Browns.
 
-
-{{< tweet 1262787057694511106 >}}
+<br>
 
 ## HANIC 6: HANIC X SOCCER
 ### Saturday May 16, 2020 2pm EDT
