@@ -50,16 +50,14 @@ subtitle = ""
  css_class = ""
 +++
 
-## HANIC 8: HANIC X NBA
-### Saturday June 6, 2020 7pm EDT
-
 {{% alert note %}}
-All events are free on Zoom, [sign up here](https://us02web.zoom.us/webinar/register/WN_bMlfdqN6TPOKTS2MSlE9Kg)!
+Now is a time to focus our energies on addressing the issues of systematic racism and police brutality. So that we may all do this with purpose, we are postponing our HANIC schedule. Please check back for new dates. [For tools, resources, and suggestions for places to donate, please visit the Hockey Allies site generously created by Jashvina Shah.](https://hockeyallies.wordpress.com/)
 {{% /alert %}}
 
-Featuring Seth Partnow [{{< icon name="twitter" pack="fab" >}}](https://twitter.com/SethPartnow), NBA Analyst at The Athletic and previous Director of Basketball Research for the Milwaukee Bucks.
+## HANIC 8: HANIC X NBA
+### ~~Saturday June 6, 2020 7pm EDT~~ Postponed
 
-{{< tweet 1264268900147003395 >}}
+Featuring Seth Partnow [{{< icon name="twitter" pack="fab" >}}](https://twitter.com/SethPartnow), NBA Analyst at The Athletic and previous Director of Basketball Research for the Milwaukee Bucks.
 
 <br>
 
