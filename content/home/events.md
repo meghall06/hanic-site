@@ -51,13 +51,33 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-Now is a time to focus our energies on addressing the issues of systematic racism and police brutality. So that we may all do this with purpose, we are postponing our HANIC schedule. Please check back for new dates. [For tools, resources, and suggestions for places to donate, please visit the Hockey Allies site generously created by Jashvina Shah.](https://hockeyallies.wordpress.com/)
+We continue to focus our energies on addressing the issues of systematic racism and police brutality. [For tools, resources, and suggestions for places to donate, please visit the Hockey Allies site generously created by Jashvina Shah.](https://hockeyallies.wordpress.com/)
 {{% /alert %}}
 
 ## HANIC 8: HANIC X NBA
-### ~~Saturday June 6, 2020 7pm EDT~~ Postponed
+### Saturday June 27, 2020 7pm EDT
 
-Featuring Seth Partnow [{{< icon name="twitter" pack="fab" >}}](https://twitter.com/SethPartnow), NBA Analyst at The Athletic and previous Director of Basketball Research for the Milwaukee Bucks.
+{{% alert note %}}
+All events are free on Zoom! [Sign up here!](https://us02web.zoom.us/webinar/register/WN_bMlfdqN6TPOKTS2MSlE9Kg)
+{{% /alert %}}
+
+{{< figure library="true" src="HANIC_NBA.jpeg" title="" lightbox="true" >}}
+
+###### Speakers
+
+* Seth Partnow [{{< icon name="twitter" pack="fab">}}](https://twitter.com/SethPartnow): "Sports Statistics as Language"
+* Justin Jacobs [{{< icon name="twitter" pack="fab">}}](https://twitter.com/squared2020): "Illustration of Regression Methods on Net Ratings"
+* Ryan Davis [{{< icon name="twitter" pack="fab">}}](https://twitter.com/rd11490): "Introduction to the Stats.(W)NBA API"
+* Kostya Medvedovsky [{{< icon name="twitter" pack="fab">}}](https://twitter.com/kmedved): "Darko: An NBA Box Score Prediction System"
+
+###### NBA Panel
+
+* Seth Partnow [{{< icon name="twitter" pack="fab">}}](https://twitter.com/SethPartnow), NBA Analyst at The Athletic and previous Director of Basketball Research for the Milwaukee Bucks.
+* Kevin Pelton [{{< icon name="twitter" pack="fab">}}](https://twitter.com/kpelton), NBA writer for ESPN.
+* Layne Vashro [{{< icon name="twitter" pack="fab">}}](https://twitter.com/VJL_bball), Denver Nuggets.
+* Kathy Evans [{{< icon name="twitter" pack="fab">}}](https://twitter.com/CausalKathy), Toronto Raptors.
+
+{{< tweet 1275464676382519296 >}}
 
 <br>
 
