@@ -54,12 +54,30 @@ subtitle = ""
 We continue to focus our energies on addressing the issues of systematic racism and police brutality. [For tools, resources, and suggestions for places to donate, please visit the Hockey Allies site generously created by Jashvina Shah.](https://hockeyallies.wordpress.com/)
 {{% /alert %}}
 
-## HANIC 8: HANIC X NBA
-### Saturday June 27, 2020 7pm EDT
+## HANIC 9: HANIC X MLB
+### Thursday July 9, 2020 7pm EDT
 
 {{% alert note %}}
-All events are free on Zoom! [Sign up here!](https://us02web.zoom.us/webinar/register/WN_bMlfdqN6TPOKTS2MSlE9Kg)
+All events are free on Zoom, [sign up here!](https://us02web.zoom.us/webinar/register/WN_PKI3qefiQnCeFHjsAdOAKw)
 {{% /alert %}}
+
+{{< figure library="true" src="HANIC_MLB.jpeg" title="" lightbox="true" >}}
+
+###### Speakers
+
+* Tom Tango [{{< icon name="twitter" pack="fab">}}](https://twitter.com/tangotiger), Senior Data Architect
+* Edward Elliott, Senior Software Engineer
+* Travis Petersen [{{< icon name="twitter" pack="fab">}}](https://twitter.com/TravisRPetersen), Senior Data Scientist
+* Max Borland [{{< icon name="twitter" pack="fab">}}](https://twitter.com/maxborland11), Manager, Strategy and Development
+* Sowmya Malur, Director of Technology
+* Clay Nunnally, Baseball Scientist
+
+{{< tweet 1280148630792478722 >}}
+
+<br>
+
+## HANIC 8: HANIC X NBA
+### Saturday June 27, 2020 7pm EDT
 
 {{< figure library="true" src="HANIC_NBA.jpeg" title="" lightbox="true" >}}
 
@@ -76,8 +94,6 @@ All events are free on Zoom! [Sign up here!](https://us02web.zoom.us/webinar/reg
 * Kevin Pelton [{{< icon name="twitter" pack="fab">}}](https://twitter.com/kpelton), NBA writer for ESPN.
 * Layne Vashro [{{< icon name="twitter" pack="fab">}}](https://twitter.com/VJL_bball), Denver Nuggets.
 * Kathy Evans [{{< icon name="twitter" pack="fab">}}](https://twitter.com/CausalKathy), Toronto Raptors.
-
-{{< tweet 1275464676382519296 >}}
 
 <br>
 
