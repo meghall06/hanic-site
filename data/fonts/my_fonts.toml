@@ -1,0 +1,11 @@
+# Font style metadata
+name = "my_fonts"
+
+# Optional Google font URL
+google_fonts = "Bangers|Lato:ital,wght@0,400;0,700;1,400|Lalezar"
+
+# Font families
+heading_font = "Lalezar"
+body_font = "Lato"
+nav_font = "Lalezar"
+mono_font = "Lato"

@@ -22,7 +22,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#564256"
+  color = "#E35440"
   
   # Background gradient.
   # gradient_start = ""
@@ -30,7 +30,7 @@ subtitle = ""
   
   # Background image.
   image = ""  # Name of image in `static/img/`.
-  image_darken = 1  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_darken = "" # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = ""  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = ""  # Options include `left`, `center` (default), or `right`.
   image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
@@ -49,5 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+{{< figure library="true" src="logo1.png" title="" lightbox="true" >}}
 
 HANIC, presented by Meghan Chayka and Alison Lukan, is a weekly online conference focused on bringing together the hockey analytics community to share, grow, and discuss the sport via diverse topics and speakers. [{{< icon name="twitter" pack="fab" >}}#HANIC](https://twitter.com/hashtag/HANIC?src=hashtag_click)
