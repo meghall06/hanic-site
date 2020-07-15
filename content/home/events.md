@@ -54,12 +54,19 @@ subtitle = ""
 We continue to focus our energies on addressing the issues of systematic racism and police brutality. [For tools, resources, and suggestions for places to donate, please visit the Hockey Allies site generously created by Jashvina Shah.](https://hockeyallies.wordpress.com/)
 {{% /alert %}}
 
-## HANIC 9: HANIC X MLB
-### Thursday July 9, 2020 7pm EDT
+## HANIC 10: HANIC X MLB Teams
+### Saturday July 18, 2020 7pm EDT
 
 {{% alert note %}}
-All events are free on Zoom, [sign up here!](https://us02web.zoom.us/webinar/register/WN_PKI3qefiQnCeFHjsAdOAKw)
+All events are free on Zoom, [sign up here!](https://us02web.zoom.us/webinar/register/WN_eS1H3SZHRTuaKmjK3UoSNw)
 {{% /alert %}}
+
+{{< tweet 1282404097874894849 >}}
+
+<br>
+
+## HANIC 9: HANIC X MLB
+### Thursday July 9, 2020 7pm EDT
 
 {{< figure library="true" src="HANIC_MLB.jpeg" title="" lightbox="true" >}}
 
@@ -71,8 +78,6 @@ All events are free on Zoom, [sign up here!](https://us02web.zoom.us/webinar/reg
 * Max Borland [{{< icon name="twitter" pack="fab">}}](https://twitter.com/maxborland11), Manager, Strategy and Development
 * Sowmya Malur, Director of Technology
 * Clay Nunnally, Baseball Scientist
-
-{{< tweet 1280148630792478722 >}}
 
 <br>
 
