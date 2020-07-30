@@ -54,14 +54,42 @@ subtitle = ""
 We continue to focus our energies on addressing the issues of systematic racism and police brutality. [For tools, resources, and suggestions for places to donate, please visit the Hockey Allies site generously created by Jashvina Shah.](https://hockeyallies.wordpress.com/)
 {{% /alert %}}
 
-## HANIC 10: HANIC X MLB Teams
-### Saturday July 18, 2020 7pm EDT
+## HANIC 11: Women in Baseball
+
+### Sunday August 2, 2020 7pm EDT AND Sunday August 9, 2020 7pm EDT
+
+##### Presented with Amanda Glazer [{{< icon name="twitter" pack="fab">}}](https://twitter.com/PandaGlazer), Analyst, San Francisco Giants
 
 {{% alert note %}}
-All events are free on Zoom, [sign up here!](https://us02web.zoom.us/webinar/register/WN_eS1H3SZHRTuaKmjK3UoSNw)
+All events are free on Zoom, [sign up here for Part 1](https://us02web.zoom.us/webinar/register/WN_O8zfxPH2T2KaJJUCm1NNpQ) and [sign up here for Part 2!](https://us02web.zoom.us/webinar/register/WN_zLT4aVXnQQO9sOfs7zCLkg)
 {{% /alert %}}
 
-{{< tweet 1282404097874894849 >}}
+Speakers             |   
+:-------------------------:|:-------------------------:
+![](/img/women_MLB_1.png)  |  ![](/img/women_MLB_2.png)
+
+###### Speakers, Part 1 (August 2)
+
+* Rachel Heacock, Analyst, Minnesota Twins
+* Emily Curtis [{{< icon name="twitter" pack="fab">}}](https://twitter.com/emweecurt), Analyst, Seattle Mariners
+* Tanya Bialostozky [{{< icon name="twitter" pack="fab">}}](https://twitter.com/LaMessicana), Mental Performance Coach, New York Mets
+* Kiri Oler [{{< icon name="twitter" pack="fab">}}](https://twitter.com/glitter_corpse), Quantitative Analyst, Philadelphia Phillies
+* Jessica Mendoza [{{< icon name="twitter" pack="fab">}}](https://twitter.com/jessmendoza), ESPN Analyst
+
+###### Speakers, Part 2 (August 9)
+
+* Emily Blady [{{< icon name="twitter" pack="fab">}}](https://twitter.com/RealSlimBlady), Analyst, Chicago White Sox
+* Amy Pircher, Software Engineer, Baseball Prospectus
+* Rachel Balkovec [{{< icon name="twitter" pack="fab">}}](https://twitter.com/_rachelbalkovec), Hitting Coach, New York Yankees
+* Emilee Fragapane, Analyst, Los Angeles Dodgers
+* Sarah Gelles, R&D Director, Houston Astros
+
+{{< tweet 1286784102981484544 >}}
+
+<br>
+
+## HANIC 10: HANIC X MLB Teams
+### Saturday July 18, 2020 7pm EDT
 
 <br>
 
