@@ -54,15 +54,28 @@ subtitle = ""
 We continue to focus our energies on addressing the issues of systematic racism and police brutality. [For tools, resources, and suggestions for places to donate, please visit the Hockey Allies site generously created by Jashvina Shah.](https://hockeyallies.wordpress.com/)
 {{% /alert %}}
 
+## HANIC 12: HANIC x TENNIS
+
+### Tuesdsay September 1, 2020 7pm EDT
+
+{{% alert note %}}
+All events are free on Zoom, [sign up here](https://us02web.zoom.us/webinar/register/WN_AmhC3K0vQo60yaIG6j2-YQ)!
+{{% /alert %}}
+
+###### Speakers
+
+* Stephanie Kovalchik [{{< icon name="twitter" pack="fab">}}](https://twitter.com/StatsOnTheT), Data Scientist, Zelus Analytics
+* Costa Kladianos [{{< icon name="twitter" pack="fab">}}](https://twitter.com/Costa_Klad), Sports Tech Business Digest
+
+{{< tweet 1293251951078121472 >}}
+
+<br>
+
 ## HANIC 11: Women in Baseball
 
 ### Sunday August 2, 2020 7pm EDT AND Sunday August 9, 2020 7pm EDT
 
 ##### Presented with Amanda Glazer [{{< icon name="twitter" pack="fab">}}](https://twitter.com/PandaGlazer), Analyst, San Francisco Giants
-
-{{% alert note %}}
-All events are free on Zoom, [sign up here for Part 1](https://us02web.zoom.us/webinar/register/WN_O8zfxPH2T2KaJJUCm1NNpQ) and [sign up here for Part 2!](https://us02web.zoom.us/webinar/register/WN_zLT4aVXnQQO9sOfs7zCLkg)
-{{% /alert %}}
 
 Speakers             |   
 :-------------------------:|:-------------------------:
@@ -83,8 +96,6 @@ Speakers             |
 * Rachel Balkovec [{{< icon name="twitter" pack="fab">}}](https://twitter.com/_rachelbalkovec), Hitting Coach, New York Yankees
 * Emilee Fragapane, Analyst, Los Angeles Dodgers
 * Sarah Gelles, R&D Director, Houston Astros
-
-{{< tweet 1286784102981484544 >}}
 
 <br>
 
