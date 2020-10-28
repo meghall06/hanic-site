@@ -58,7 +58,7 @@ We continue to focus our energies on addressing the issues of systematic racism 
 
 ### Thursday September 10, 2020 7pm EDT
 
-Coordinated by [{{< icon name="twitter" pack="fab">}} @WoodwineTB](https://twitter.com/WoodwineTB).
+Coordinated by [{{< icon name="twitter" pack="fab">}}@WoodwineTB](https://twitter.com/WoodwineTB).
 
 ## HANIC 12: HANIC x TENNIS
 
