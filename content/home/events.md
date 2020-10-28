@@ -54,13 +54,15 @@ subtitle = ""
 We continue to focus our energies on addressing the issues of systematic racism and police brutality. [For tools, resources, and suggestions for places to donate, please visit the Hockey Allies site generously created by Jashvina Shah.](https://hockeyallies.wordpress.com/)
 {{% /alert %}}
 
+## HANIC 13: HANIC x HORSE RACING
+
+### Thursday September 10, 2020 7pm EDT
+
+Coordinated by [{{< icon name="twitter" pack="fab">}} @WoodwineTB](https://twitter.com/WoodwineTB).
+
 ## HANIC 12: HANIC x TENNIS
 
-### Tuesdsay September 1, 2020 7pm EDT
-
-{{% alert note %}}
-All events are free on Zoom, [sign up here](https://us02web.zoom.us/webinar/register/WN_AmhC3K0vQo60yaIG6j2-YQ)!
-{{% /alert %}}
+### Tuesday September 1, 2020 7pm EDT
 
 ###### Speakers
 
