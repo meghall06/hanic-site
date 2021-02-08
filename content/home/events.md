@@ -54,6 +54,20 @@ subtitle = ""
 We continue to focus our energies on addressing the issues of systematic racism and police brutality. [For tools, resources, and suggestions for places to donate, please visit the Hockey Allies site generously created by Jashvina Shah.](https://hockeyallies.wordpress.com/)
 {{% /alert %}}
 
+## HANIC 14: HANIC x HOCKEY
+
+### Thursday February 18, 2021 7pm EDT
+
+{{% alert note %}}
+All events are free, [sign up here!](https://us02web.zoom.us/webinar/register/WN_0FogU5hWRkiUv9ENZcbmXQ)
+{{% /alert %}}
+
+Join us for a special event all about the [Big Data Cup](https://www.stathletes.com/big-data-cup/)!
+
+---
+
+<br>
+
 ## HANIC 13: HANIC x HORSE RACING
 
 ### Thursday September 10, 2020 7pm EDT
