@@ -64,6 +64,15 @@ All events are free, [sign up here!](https://us02web.zoom.us/webinar/register/WN
 
 Join us for a special event all about the [Big Data Cup](https://www.stathletes.com/big-data-cup/)!
 
+###### Speakers
+
+* Alison Lukan [{{< icon name="twitter" pack="fab">}}](https://twitter.com/AlisonL)
+* Micah Blake McCurdy [{{< icon name="twitter" pack="fab">}}](https://twitter.com/IneffectiveMath)
+* Meghan Hall [{{< icon name="twitter" pack="fab">}}](https://twitter.com/MeghanMHall)
+* Dani Chu [{{< icon name="twitter" pack="fab">}}](https://twitter.com/chuurveg)
+
+{{< tweet 1361316421163241474 >}}
+
 ---
 
 <br>
