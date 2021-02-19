@@ -58,11 +58,9 @@ We continue to focus our energies on addressing the issues of systematic racism 
 
 ### Thursday February 18, 2021 7pm EDT
 
-{{% alert note %}}
-All events are free, [sign up here!](https://us02web.zoom.us/webinar/register/WN_0FogU5hWRkiUv9ENZcbmXQ)
-{{% /alert %}}
-
 Join us for a special event all about the [Big Data Cup](https://www.stathletes.com/big-data-cup/)!
+
+[{{< icon name="youtube" pack="fab">}}](https://www.youtube.com/watch?v=r0q0GsVmqNc&feature=youtu.be&ab_channel=MeghanChayka) Video recording available!
 
 ###### Speakers
 
