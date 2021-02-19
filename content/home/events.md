@@ -68,6 +68,7 @@ Join us for a special event all about the [Big Data Cup](https://www.stathletes.
 * Micah Blake McCurdy [{{< icon name="twitter" pack="fab">}}](https://twitter.com/IneffectiveMath)
 * Meghan Hall [{{< icon name="twitter" pack="fab">}}](https://twitter.com/MeghanMHall)
 * Dani Chu [{{< icon name="twitter" pack="fab">}}](https://twitter.com/chuurveg)
+* Dom Galamini Jr. [{{< icon name="twitter" pack="fab">}}](https://twitter.com/DomGalamini)
 
 {{< tweet 1361316421163241474 >}}
 
